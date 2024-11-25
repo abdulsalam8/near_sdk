@@ -1,6 +1,6 @@
-# NEAR-SDK-JS template project
+# NEAR-SDK-JS  project
 
-This is a template project. It implements a counter. You can copy this folder to start writing your first contract.
+This is a free project. It implements a counter. You can copy this folder to start writing your first contract.
 
 # Build the contract
 
